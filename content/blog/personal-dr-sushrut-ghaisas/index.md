@@ -1,12 +1,12 @@
 ---
-title: In Gratitude to Dr. Sushrut Ghaisas
+title: A personal note of gratitude to Dr. Sushrut Ghaisas
 summary: Having children has been the hardest but the most rewarding experience of my life. Having support of a good medical team made the biggest difference. Sharing here my personal experience.
 date: 2025-04-09
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 
 authors:
   - admin
