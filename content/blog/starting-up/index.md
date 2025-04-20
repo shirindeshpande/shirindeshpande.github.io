@@ -17,4 +17,4 @@ tags:
   - Startup
 ---
 
-Starting up Tarcaz Labs.
+Coming soon 

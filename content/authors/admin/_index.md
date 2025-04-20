@@ -52,4 +52,4 @@ highlight_name: true
 website: ""
 ---
 
-Shirin Deshpande is the founder of Tarcaz Labs. 
+Shirin Deshpande is the founder of Tarcaz Labs. Shirin has over a decade of experience in product management, strategy, and analytics. The views posted on the blog are personal. 
