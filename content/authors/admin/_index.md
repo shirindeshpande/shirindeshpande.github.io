@@ -25,7 +25,7 @@ organizations:
     url: https://tarcazai.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: CEO & Founder, Tarcaz AI. A proud Mom of two. I love coffee and a good workout. Ex-Poshmark. Berkeley Haas MBA ‘20 | IIT Kanpur '12
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,4 +52,6 @@ highlight_name: true
 website: ""
 ---
 
-Shirin Deshpande is the founder of Tarcaz Labs. Shirin has over a decade of experience in product management, strategy, and analytics. The views posted on the blog are personal. 
+Shirin Deshpande is the founder of Tarcaz Labs. Shirin has over a decade of experience in product management, strategy, and analytics. Shirin holds an MBA from UC Berkeley and a Bacheleors in Electrical Engineering from IIT Kanpur. 
+
+The views posted on the blog are personal. 
