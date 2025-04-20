@@ -1,6 +1,6 @@
 ---
-title: Notes from Startin Up
-summary: Summary of my notes.
+title: Notes from starting up 
+summary: My notes starting up a company and enjoying it to the fullest :) 
 date: 2025-04-09
 
 # Featured image
